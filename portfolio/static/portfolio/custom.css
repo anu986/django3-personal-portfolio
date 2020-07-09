@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .navbar-nav .nav-link {
   color: rgba(0,0,0,1) !important;
@@ -19,3 +20,26 @@ body {
   }
   
 }
+=======
+
+.navbar-nav .nav-link {
+  color: rgba(0,0,0,1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: rgba(0,0,0,.5) !important;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+@media (min-width: 992px) {
+  #hometext {
+      font-size: 4rem;
+  }
+  
+}
+>>>>>>> 493b59c14a568fada9addbf6a389bc0713d39912
