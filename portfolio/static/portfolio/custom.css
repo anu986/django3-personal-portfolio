@@ -11,15 +11,11 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-#blogtitle {
-  font-size: 6rem;
-}
+
 
 @media (min-width: 992px) {
   #hometext {
       font-size: 4rem;
   }
-  #blogdetailtitle {
-      font-size: 5rem;
-  }
+  
 }
