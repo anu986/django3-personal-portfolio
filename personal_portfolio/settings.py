@@ -25,7 +25,7 @@ SECRET_KEY = 'nm0))m$(35k8b9-ko(&ssryx(+h=1ak-l@b5d*1077n0dpo45@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['exploreportfolio.pythonanywhere.com']
+ALLOWED_HOSTS = ['programmingprojects.pythonanywhere.com']
 
 # Application definition
 
